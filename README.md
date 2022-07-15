@@ -1,5 +1,4 @@
-# DoAn2
-Đồ án 2: Phần mềm quản lý cơ sở vật chất trường học trên máy tính.
+# Phần mềm quản lý cơ sở vật chất trường học trên máy tính.
 - Ngôn ngữ Java
 - Database SqlSever
 Chức năng:
