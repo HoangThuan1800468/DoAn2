@@ -1,19 +1,10 @@
 # DoAn2
-Đồ án 2: Phần mềm quản lý cơ sở vật chất trường học.
-
-
-
-
-
-echo "# DoAn2" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/HoangThuan1800468/DoAn2.git
-git push -u origin main
-----------------------------------------------------------------------
-git remote add origin https://github.com/HoangThuan1800468/DoAn2.git
-git branch -M main
-git push -u origin main
-----------------------------------------------------------------------
+Đồ án 2: Phần mềm quản lý cơ sở vật chất trường học trên máy tính.
+- Ngôn ngữ Java
+- Database SqlSever
+Chức năng:
+- Quản lý đối tượng vật chất
+- Di chuyển vật chất giữa các phòng
+- Kiểm kê cơ sở vật chất
+- Quản lý tình trạng, bảo hành 
+- ...
